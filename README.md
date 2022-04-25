@@ -2,7 +2,7 @@
 TailwindCSS 3 - Alpine JS 3 - Wordpress
 Startertheme to develop fast and easy!
 
-# installation
+# Getting started
 git clone:
 gitlink here, 
 
