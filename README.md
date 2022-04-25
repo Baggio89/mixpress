@@ -5,6 +5,7 @@ Startertheme to develop fast and easy!
 # Getting started
 `
 $ cd your-wordpress-folder/wp-content/themes/
+
 $ git clone https://github.com/Baggio89/mixpress.git
 $ cd mixpress
 $ yarn install
